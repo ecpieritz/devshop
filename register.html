@@ -161,6 +161,34 @@
     <!-- end login modal -->
 
     <!-- form section -->
+    <section id="app-section">
+        <main class="app">
+
+            <section class="session_cadastro">
+
+                <h2>Cadastro Produtos</h2>
+                <hr>
+
+                <p>
+                    <!-- FORMULÁRIO -->
+                <form class="formp" action="insert.php" method="post" enctype="multipart/form-data">
+                    Titulo do produto <input type="text" name="ptitulo"> <br><br>
+                    Descrição do produto <textarea type="text" name="pdesc"> </textarea><br><br>
+                    Valor <input class="pvalor" type="number" step="0,01" min="0" placeholder="R$ 00,00" name="pvalor">
+                    <br><br>
+                    Imagem <input class="pimg" type="file" name="pimg"> <br><br>
+                    <button type="submit" class="salvar">Salvar</button>
+                </form>
+
+                <div class="resultado">
+                    <p></p>
+                </div>
+                </p>
+            </section>
+
+        </main>
+    </section>
+    <!-- end form section -->
 
     <!-- footer start -->
     <footer>
