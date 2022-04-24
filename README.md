@@ -3,9 +3,9 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "https://github.com/ecpieritz/xxx" width = "700" height = "auto">
-  <img src = "https://github.com/ecpieritz/xxx" width = "350" height = "auto">
-  <img src = "https://github.com/ecpieritz/xxx" width = "350" height = "auto">
+  <img src = "https://github.com/ecpieritz/devshop/blob/main/assets/images/print-01.jpg?raw=true" width = "700" height = "auto">
+  <img src = "https://github.com/ecpieritz/devshop/blob/main/assets/images/print-02.jpg?raw=true" width = "350" height = "auto">
+  <img src = "https://github.com/ecpieritz/devshop/blob/main/assets/images/print-03.jpg?raw=true" width = "350" height = "auto">
 </p>
 
 ## 📖 About
